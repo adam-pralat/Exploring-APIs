@@ -7,11 +7,13 @@
 - TODO: a list of any technical problems blocking progress (if any)
 
 
-## Problem Domain:
+## Problem Domain: 
 
-## Application Description:
+## Application Description: 
 
-## Link to API documentation:
+## Link to API documentation: 
+
+https://documenter.getpostman.com/view/24232555/2s93shzpR3?ref=apilist.fun
 
 ## Screenshots:
 
