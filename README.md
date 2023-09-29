@@ -10,6 +10,7 @@
 NBA Fantasy Game - Draft and manage a virtual team of players from the NBA and earn points based on their real-life performances.
 ## Application Description:
 Our team is thinking about developing a game which TODO
+
 In order to play NBA Fantasy, users must first create an acount or sign in. Then, they can either join a league or create their own. In each league, users must draft a team roster. After each NBA game, the players are assigned points based on their real life performances. Depending on how your team did, you either climb or fall on the leaderboard. The team with the most points at the end of the season wins.
 
 ## Link to API documentation: 
