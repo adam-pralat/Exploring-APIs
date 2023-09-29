@@ -5,3 +5,16 @@
 - TODO: a screenshot of using a tool to try out the API (like https://www.postman.com/Links to an external site. or https://hoppscotch.io/Links to an external site.Links to an external site.)
 - TODO: example output of running your Java code.
 - TODO: a list of any technical problems blocking progress (if any)
+
+
+Problem Domain:
+
+Application Description:
+
+Link to API documentation:
+
+Screenshots:
+
+Example Output:
+
+Technical Problems:
