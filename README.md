@@ -7,14 +7,14 @@
 - TODO: a list of any technical problems blocking progress (if any)
 
 
-### Problem Domain:
+## Problem Domain:
 
-### Application Description:
+## Application Description:
 
-### Link to API documentation:
+## Link to API documentation:
 
-### Screenshots:
+## Screenshots:
 
-### Example Output:
+## Example Output:
 
-### Technical Problems:
+## Technical Problems:
