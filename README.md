@@ -8,6 +8,7 @@
 
 ## Problem Domain: 
 NBA Fantasy Game - Draft and manage a virtual team of players from the NBA and earn points based on their real-life performances.
+
 ## Application Description: 
 
 ## Link to API documentation: 
