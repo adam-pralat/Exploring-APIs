@@ -14,8 +14,9 @@ https://documenter.getpostman.com/view/24232555/2s93shzpR3?ref=apilist.fun
 
 ## Screenshots:
 ![screenshot.png](screenshot.png)
+![usetool.png](usetool.png)
 ## Example Output:
 ![output.png](output.png)
-
+![output2.png](output2.png)
 ## Technical Problems:
 One problem with our current API is that it provides data from previous NBA seasons rather than game-by-game data. If we stick with this API, we would have to either simulate games based on players previous season statistics, or choose another way to assign player points. On the other hand, while an API with live game-by-game data would be ideal, we would be unable to retrieve the data right away since the NBA season does not start until October 24th.
